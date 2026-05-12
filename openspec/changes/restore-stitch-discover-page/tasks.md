@@ -18,6 +18,6 @@
 
 ## 4. Repository and Deployment
 
-- [ ] 4.1 Initialize Git, commit the implementation, create a GitHub repository, and push the code.
-- [ ] 4.2 Add and verify GitHub Pages deployment workflow configuration.
-- [ ] 4.3 Deploy to Vercel and collect the returned Vercel URL.
+- [x] 4.1 Initialize Git, commit the implementation, create a GitHub repository, and push the code.
+- [x] 4.2 Add and verify GitHub Pages deployment workflow configuration.
+- [x] 4.3 Deploy to Vercel and collect the returned Vercel URL.
